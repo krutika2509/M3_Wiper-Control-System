@@ -13,7 +13,7 @@ I have created  wiper control system using ARM based microcontroller and the use
 
 ## demostration
 
-![working of the project](https://user-images.githubusercontent.com/104137902/168426557-7c11d704-f62f-4013-a3ad-49738ae234db.gif)
+![working of the project](https://user-images.githubusercontent.com/104137902/168426657-39b06c6c-67d7-4e44-96e4-8e27007a6afb.gif)
 
 
  
