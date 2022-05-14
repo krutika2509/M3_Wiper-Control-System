@@ -4,14 +4,16 @@
 
 The wiper serves to clean the windshield of the car at the front. Wiper works by removing oil, dust, rainwater, and dirt that get stuck to the windshield.
 The windshield wiper system of cars has three major subsystems:
-1) two wipers and their arms
-2) a mechanism
-3) an electric motor.
+1) Two wipers and their arms
+2) Mechanism
+3) An electric motor.
 Each wiper arm is modelled as a rotating cantilever beam with a lumped mass at its tip where a friction force is applied. The mechanism, which transmits power from the motor to the roots of the wiper arms, is treated as two connected four-bar linkages with rigid members. The electric motor drives the system with varying rotating torque and speed as its load due to the motion of arms and linkages changes with time.
 
 I have created  wiper control system using ARM based microcontroller and the used board is STM32F4-Discovery. In this project we are using User Button and, 4 LED'S. 
 
+## demostration
 
+![working of the project](https://user-images.githubusercontent.com/104137902/168426557-7c11d704-f62f-4013-a3ad-49738ae234db.gif)
 
 
  
