@@ -19,6 +19,9 @@ added soon
 
  
 ## Badges
+![Codacy Badge](https://api.codiga.io/project/33487/score/svg)
+
+![Codacy Badge](https://api.codiga.io/project/33487/status/svg)
 
 
 
