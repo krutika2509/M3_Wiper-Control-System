@@ -7,6 +7,7 @@ The windshield wiper system of cars has three major subsystems.
 1) Two wipers and their arms
 2) Mechanism
 3) An electric motor.
+
 Each wiper arm is modelled as a rotating cantilever beam with a lumped mass at its tip where a friction force is applied. The mechanism, which transmits power from the motor to the roots of the wiper arms, is treated as two connected four-bar linkages with rigid members. The electric motor drives the system with varying rotating torque and speed as its load due to the motion of arms and linkages changes with time.
 
 I have created  wiper control system using ARM based microcontroller and the used board is STM32F4-Discovery. In this project we are using User Button and, 4 LED'S. 
@@ -19,9 +20,7 @@ added soon
  
 ## Badges
 
-![Codacy Badge](https://api.codiga.io/project/33487/score/svg)
 
-![Codacy Badge](https://api.codiga.io/project/33487/status/svg)
 
 ## Folder structure
 | Folder | 	Description |
