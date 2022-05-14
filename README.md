@@ -13,7 +13,7 @@ I have created  wiper control system using ARM based microcontroller and the use
 Button indicates the ON and OFF condition where 4 LED'S indicates the wiper motion.
 ## Demostration
 
-![working of the project](https://user-images.githubusercontent.com/104137902/168426657-39b06c6c-67d7-4e44-96e4-8e27007a6afb.gif)
+added soon
 
 
  
