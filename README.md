@@ -21,7 +21,7 @@ added soon
 
 ![Codacy Badge](https://api.codiga.io/project/33487/score/svg)
 
-![Codacy Badge]https://api.codiga.io/project/33487/status/svg)
+![Codacy Badge](https://api.codiga.io/project/33487/status/svg)
 
 ## Folder structure
 | Folder | 	Description |
