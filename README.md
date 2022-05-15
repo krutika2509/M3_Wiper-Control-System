@@ -25,6 +25,10 @@ Button indicates the ON and OFF condition where 4 LED'S indicates the wiper moti
 
 ![Codacy Badge](https://api.codiga.io/project/33487/status/svg)
 
+[![Cppcheck Analysis](https://github.com/krutika2509/M3_Wiper-Control-System/actions/workflows/Cppcheck_analysis.yml/badge.svg)](https://github.com/krutika2509/M3_Wiper-Control-System/actions/workflows/Cppcheck_analysis.yml)
+
+[![Build-Linux](https://github.com/krutika2509/M3_Wiper-Control-System/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/krutika2509/M3_Wiper-Control-System/actions/workflows/Build%20on%20Linux.yml)
+
 
 
 ## FOLDER STRUCTURE
