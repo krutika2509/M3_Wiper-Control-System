@@ -121,3 +121,9 @@ LED cycle | Button Press twice | All LEDs ON-4Hz | All LEDs ON-moderate speed | 
 LED cycle | Button Press thrice | All LEDs ON -8Hz| All LEDs ON-high speed | ✅
 ignition_off() | User Button Press 2nd 2sec | RED LED OFF | RED LED OFF | ✅
 
+
+## PROJECT WORKING 
+![working of the project](https://user-images.githubusercontent.com/104137902/168469450-155d856e-eb5c-4379-96e9-fe8f69305543.gif)
+
+
+
