@@ -1,0 +1,13 @@
+# Doxyfile 1.9.4
+
+PROJECT_NAME           = M3_Wiper-Contro-Systeml
+PROJECT_NUMBER         = 1.0.0
+OUTPUT_DIRECTORY       = C:/Users/kruti/OneDrive/Desktop/3_Implementation/Doxygen
+OPTIMIZE_OUTPUT_FOR_C  = YES
+EXTRACT_ALL            = YES
+HIDE_SCOPE_NAMES       = YES
+INPUT                  = C:/Users/kruti/OneDrive/Desktop/krutika
+GENERATE_RTF           = YES
+GENERATE_MAN           = YES
+GENERATE_XML           = YES
+GENERATE_DOCBOOK       = YES
