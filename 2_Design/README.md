@@ -1,0 +1,1 @@
+block diagram, data flow diagram, flow chart ,schematic diagram
