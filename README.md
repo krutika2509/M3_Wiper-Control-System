@@ -12,9 +12,11 @@ Each wiper arm is modelled as a rotating cantilever beam with a lumped mass at i
 
 I have created  wiper control system using ARM based microcontroller and the used board is STM32F4-Discovery. In this project we are using User Button and, 4 LED'S. 
 Button indicates the ON and OFF condition where 4 LED'S indicates the wiper motion.
-## Demostration
 
-added soon
+
+## PROJECT WORKING 
+
+![working of the project](https://user-images.githubusercontent.com/104137902/168469450-155d856e-eb5c-4379-96e9-fe8f69305543.gif)
 
 
  
