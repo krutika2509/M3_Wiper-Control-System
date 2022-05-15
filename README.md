@@ -20,14 +20,14 @@ Button indicates the ON and OFF condition where 4 LED'S indicates the wiper moti
 
 
  
-## Badges
+## BADGES
 ![Codacy Badge](https://api.codiga.io/project/33487/score/svg)
 
 ![Codacy Badge](https://api.codiga.io/project/33487/status/svg)
 
 
 
-## Folder structure
+## FOLDER STRUCTURE
 | Folder | 	Description |
 | -- | ------------ |
 | 0_Abstrat | Brief intoroduction of the project title | 
