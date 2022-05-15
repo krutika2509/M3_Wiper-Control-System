@@ -17,10 +17,14 @@
 In cars, a wiper control system replaces the standard wiper blade with an electrical component. In this setup, the ignition button (on the motor) will be controlled by a single switch in the ACC position. Switch on the wiper system with a second press, then vary the wiper speed with a third press, and finally turn off the motor with a fourth press. All of this was done with the help of LEDs and a simulation tool.A wiper is a vital component that removes rainfall or any other liquid from the windscreen of a vehicle. The previous method required manual wiper activation, and raising the wiper was a tough task. As a result, this system is being presented as a solution to these problems. The project's goals are to supply wiping systems for older automobiles, improve the system by using actuators and pull switches (using the same switch for various functions by stepwise switching), and manage engine and wiper speed with a single switch. This System regulates the wiper's operation speed in response to the amount of rain. This Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen.
 
 ## Conditions of Wiper Control System in order to work properly
-1.Ignition Key Position at ACC-- The Red LED is ON, if the user button is pressed and held for 2 secs
-2.Wiper ON: Wiper is OFF-- On press of the user input, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz
-3.Wiper OFF: Wiper is ON-- The LED glow pattern stops on the 4th press; the wiper action starts next press onwards as mentioned in step 2
-4.Ignition Key Position at Lock-- The Red LED is OFF, if the user button is pressed and held for 2 secs
+
+1. Ignition Key Position at ACC-- The Red LED is ON, if the user button is pressed and held for 2 secs.
+
+2. Wiper ON: Wiper is OFF-- On press of the user input, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz.
+
+3. Wiper OFF: Wiper is ON-- The LED glow pattern stops on the 4th press; the wiper action starts next press onwards as mentioned in step 2.
+
+4. Ignition Key Position at Lock-- The Red LED is OFF, if the user button is pressed and held for 2 secs.
 
 
 
