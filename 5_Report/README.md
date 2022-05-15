@@ -4,8 +4,11 @@
 
 The wiper serves to clean the windshield of the car at the front. Wiper works by removing oil, dust, rainwater, and dirt that get stuck to the windshield.
 The windshield wiper system of cars has three major subsystems.
+
 1) Two wipers and their arms
+
 2) Mechanism
+
 3) An electric motor.
 
 Each wiper arm is modelled as a rotating cantilever beam with a lumped mass at its tip where a friction force is applied. The mechanism, which transmits power from the motor to the roots of the wiper arms, is treated as two connected four-bar linkages with rigid members. The electric motor drives the system with varying rotating torque and speed as its load due to the motion of arms and linkages changes with time.
